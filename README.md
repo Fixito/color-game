@@ -1,4 +1,4 @@
-<h1 align="center">{Color game}</h1>
+<h1 align="center">Color game</h1>
 
 <div align="center">
   A color game built with Javascript
