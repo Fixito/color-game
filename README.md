@@ -17,8 +17,3 @@
 ## Overview
 
 ![screenshot](img/overview.PNG)
-
-## Contact
-
-- Website [fixito.github.io/thomasrobert/](https://fixito.github.io/thomasrobert/)
-- GitHub [@Fixito](https://github.com/Fixito/color-game)
